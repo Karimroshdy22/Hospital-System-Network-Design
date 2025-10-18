@@ -45,8 +45,7 @@ The goal of this project is to design and implement a modern network system that
 | Hospital System Network Design Document  | `DEPI (Hospital System Network Design (1)).pdf` | [https://drive.google.com/file/d/1VGlH0IppG2IZRXPED7VN0VoRYneYqTXC/view?usp=sharing]                            |
 | Hospital System Network Design Level     | `Hospital System Network Design Lv.pdf`         | [https://drive.google.com/file/d/1lbfsecBad6wi3FEhqt-3Rcvq-7JX03zr/view?usp=sharing]                            |
 | Packet Tracer Network Design File        | `hospital_network_system_main.pkt`               | [https://drive.google.com/file/d/17J8lIYtlVUWkf3pkn4u8R-FaJkmw23T2/view?usp=sharing]                            |
-| Network Configuration Document           | `Network Configuration Lv.pdf`                    | [[Upload or link here](https://drive.google.com/file/d/1yGjWY03JOwjCOVvIXr1Bo_IbJ0-mR2QL/view?usp=sharing)]                            |
-
+| Network Configuration Document           | `Network Configuration Lv.pdf`                    | [https://drive.google.com/file/d/1yGjWY03JOwjCOVvIXr1Bo_IbJ0-mR2QL/view?usp=sharing]                            |
 ---
 
 ### How to Upload Files  
