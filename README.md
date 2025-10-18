@@ -48,14 +48,6 @@ The goal of this project is to design and implement a modern network system that
 | Network Configuration Document           | `Network Configuration Lv.pdf`                    | [https://drive.google.com/file/d/1yGjWY03JOwjCOVvIXr1Bo_IbJ0-mR2QL/view?usp=sharing]                            |
 ---
 
-### How to Upload Files  
-1. Click on the “Upload” button in your GitHub repository.  
-2. Select the relevant file from your local machine.  
-3. Add a commit message describing the file (e.g., "Add network design document").  
-4. Commit the changes to the main branch (or the branch you are working on).
-
----
-
 ### Contact  
 For questions or further information, please contact:  
 - **Karim Roshdy**  
